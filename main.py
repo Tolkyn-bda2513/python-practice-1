@@ -1,3 +1,4 @@
+#Practice 1
 customer = input("Enter customer name: ")
 
 item1 = input("Enter name of item 1: ")
@@ -31,4 +32,4 @@ print("Per person :", per_person, "KZT")
 print("=" * 30)
 
 print("Tip included:", tip > 0)
-print("Bill over 5000 KZT:", total > 5000)
+print("Bill over 5000 KZT:", total > 5000) 
